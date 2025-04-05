@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mellofyre.
 - 👀 I’m interested in Minecraft mods, PC building, and random knowledge.
-- 🌱 I’m currently learning more Python.
+- 🌱 I’m currently learning more Python and HTML.
 - 💞️ I’m looking to collaborate on anything I need help with.
 - 📫 You can reach me at mellofyre@gmail.com.
 - 😄 Pronouns: he/him/his.
